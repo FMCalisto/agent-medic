@@ -1,3 +1,3 @@
 (defstruct perc
-  (inimigo-frente NIL)
-  (atingido NIL))
+  (enimy-front NIL)
+  (hit NIL))
