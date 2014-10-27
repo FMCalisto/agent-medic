@@ -18,4 +18,4 @@ cure by performing the action (HEAL).
 This action allows the agent to recover 5% of lost energy. 
 
 If none of the above situations happens the agent will simply patrolling their area, 
-performing the action (patrol).
+performing the action (PATROL).
